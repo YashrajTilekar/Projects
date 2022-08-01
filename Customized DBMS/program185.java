@@ -9,6 +9,7 @@ class Student
     public int RID ;
     public String Name ;
     public int Salary ; 
+    public String City ;
 
     private static int Generator ;
 
@@ -17,16 +18,17 @@ class Student
         Generator = 0 ;
     }
 
-    public Student(String str ,int iValue)
+    public Student(String str ,int iValue ,String strCIty)
     {
         this.RID = ++Generator ;
         this.Name = str ;
         this.Salary = iValue ;
+        this.City = strCIty ;
     }
 
     public void DisplayData()
     {
-        System.out.println(this.RID + "\t" + this.Name + "\t" + this.Salary);
+        System.out.println("|\t" + this.RID + "\t|\t" + this.Name + "\t|\t" + this.Salary + "\t|\t" + this.City + "\t|");
     }
 }
 
@@ -59,14 +61,20 @@ class DBMS
 
             if(QuerySize == 1)
             {
-                if("Help".equals(tokens[0]))
+                if("Help".equalsIgnoreCase(tokens[0]))
                 {
-                    System.out.println("This Application is used to demonstate Customized DBMS");
-                    System.out.println("Exit : Terminate DBMS");
-                    System.out.println("Display ALL Data : Select * from student");
-                    System.out.println("Insert data : Insert into student name salary");
+                    System.out.println("  This Application is used to demonstate Customized DBMS");
+                    System.out.println("  Exit : Terminate DBMS");
+                    System.out.println("  Display ALL Data : Select * from student");
+                    System.out.println("  Insert data : Insert into student name salary city");
+                    System.out.println("  Display Max. Salary : Select max(salary) from student");
+                    System.out.println("  Display Min. Salary : Select min(salary) from student");
+                    System.out.println("  Display Average Salary : Select avg(salary) from student");
+                    System.out.println("  Display Max. Salary : Select max(salary) from student");
+                    System.out.println("  Display Summation of Salaries : Select sum(salary) from student");
+                    System.out.println("  Display Total Number of students : Select count from student");
                 }
-                else if("Exit".equals(tokens[0]))
+                else if("Exit".equalsIgnoreCase(tokens[0]))
                 {
                     System.out.println("Thank you for using Marvellous DBMS");
                     break;
@@ -74,28 +82,58 @@ class DBMS
             }
             else if(QuerySize == 4)
             {
-                if("Select".equals(tokens[0]))
+                if("Select".equalsIgnoreCase(tokens[0]))
                 {
-                    if("*".equals(tokens[1]))
+                    //Select * from student
+                    if("*".equalsIgnoreCase(tokens[1]))
                     {
+                        System.out.println("+---------------------------------------------------------------+");
+                        System.out.println("|\t" + "ID" + "\t|\t" + "Name" + "\t|\t" + "Salary" + "\t|\t" + "City" + "\t|");
+                        System.out.println("+---------------------------------------------------------------+");
                         DisplayAll();
+                    }
+                    //Select max(salary) from student
+                    else if("max(salary)".equalsIgnoreCase(tokens[1]))
+                    {
+                        AggregateMax();
+                    }
+                    //Select min(salary) from student
+                    else if("min(salary)".equalsIgnoreCase(tokens[1]))
+                    {
+                        AggregateMin();
+                    }
+                    //Select avg(salary) from student
+                    else if("avg(salary)".equalsIgnoreCase(tokens[1]))
+                    {
+                        AggregateAverage();
+                    }
+                    
+                    //Select sum(salary) from student
+                    else if("sum(salary)".equalsIgnoreCase(tokens[1]))
+                    {
+                        AggregateSum();
+                    }
+                    //Select count from student
+                    else if("count".equalsIgnoreCase(tokens[1]))
+                    {
+                        AggregateCount();
                     }
                 }
             }
-            else if(QuerySize == 5)
+            else if(QuerySize == 6)
             {
-                // Insert into student Yashraj 70000
-                if("Insert".equals(tokens[0]))
+                // Insert into student Yashraj 70000 Pune
+                if("Insert".equalsIgnoreCase(tokens[0]))
                 {
-                    InsertData(tokens[3] ,Integer.valueOf(tokens[4])) ;
+                    InsertData(tokens[3] ,Integer.valueOf(tokens[4]),tokens[5]) ;
                 }
             }
         }
     }
 
-    public void InsertData(String str , int value)
+    public void InsertData(String str , int value , String city)
     {
-        Student sobj = new Student(str, value) ;
+        Student sobj = new Student(str, value ,city) ;
 
         lobj.add(sobj) ;
     }
