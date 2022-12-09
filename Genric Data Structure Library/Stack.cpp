@@ -108,7 +108,7 @@ int Stack<T>::Count()
 
 int main()
 {
-    SinglyLinearLinkedList <int>sobj ;
+    Stack <int>sobj ;
     int iRet = 0;
 
     sobj.Push(101) ;
