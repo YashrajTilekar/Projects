@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 68,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Elliot Smith",
+        "title": "Deutsche Bank logs 11th straight quarterly profit, reveals job cuts - CNBC",
+        "description": "Deutsche Bank on Thursday reported a net profit of 1.158 billion euros ($1.28 billion) for the first quarter.",
+        "url": "https://www.cnbc.com/2023/04/27/deutsche-bank-logs-11th-straight-quarterly-profit-reveals-job-cuts.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107215241-1679871828816-gettyimages-1240557511-GERMANY_DEUTSCHE.jpeg?v=1682572727&w=1920&h=1080",
+        "publishedAt": "2023-04-27T05:18:47Z",
+        "content": "Deutsche Bank on Thursday reported a net profit of 1.158 billion euros ($1.28 billion) for the first quarter, emerging from a turbulent month that saw it swept up in market fears of a global banking … [+5059 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Reuters",
+        "title": "Factbox-Fed, FDIC reviews of US bank failures to spotlight problems, fixes - Yahoo Finance",
+        "description": "The failures of two large regional U.S. banks in mid-March blew a $22 billion hole in the nation's deposit insurance fund and shook confidence in the global ...",
+        "url": "https://finance.yahoo.com/news/factbox-fed-fdic-reviews-us-050638545.html",
+        "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/3957c23e335320cd08b4dc372841ea1e",
+        "publishedAt": "2023-04-27T05:06:00Z",
+        "content": "The failures of two large regional U.S. banks in mid-March blew a $22 billion hole in the nation's deposit insurance fund and shook confidence in the global financial system.\r\nOn Friday the banks' re… [+5471 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": null,
+        "title": "Tyson Foods to eliminate 10% of corporate jobs, 15% of senior leaders - Reuters",
+        "description": "Tyson Foods Inc <a href=\"https://www.reuters.com/companies/TSN.N\" target=\"_blank\">(TSN.N)</a> will eliminate about 10% of corporate jobs and 15% of senior leadership roles, Chief Executive Donnie King told employees on Wednesday.",
+        "url": "https://www.reuters.com/business/tyson-foods-eliminate-10-corporate-jobs-memo-2023-04-26/",
+        "urlToImage": "https://www.reuters.com/resizer/6n5pVjZK2pbZbmTi1R4PpFsLiC4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/74IFJQYLFRIH5A4BCW4OXT2U34.jpg",
+        "publishedAt": "2023-04-27T03:43:00Z",
+        "content": "CHICAGO, April 26 (Reuters) - Tyson Foods Inc (TSN.N) will eliminate about 10% of corporate jobs and 15% of senior leadership roles, Chief Executive Donnie King told employees on Wednesday.\r\nThe layo… [+2560 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Milwaukee mail carrier robbed, 89th and Chambers | FOX6 News Milwaukee - FOX6 News Milwaukee",
+        "description": "A Milwaukee mail carrier was robbed Wednesday afternoon near 89th and Chambers. https://bit.ly/448ShFe #milwaukee #crime #robbery #armedrobbery #milwaukeepol...",
+        "url": "https://www.youtube.com/watch?v=rU0fQKVFXuo",
+        "urlToImage": "https://i.ytimg.com/vi/rU0fQKVFXuo/maxresdefault.jpg",
+        "publishedAt": "2023-04-27T03:21:06Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Jenny Surane, Hannah Levitt and Katherine Doherty",
+        "title": "First Republic Stuck in Standoff Between US and Banking Industry - Yahoo Finance",
+        "description": "(Bloomberg) -- The fate of First Republic Bank has become a game of chicken between the US government and the lender’s largest rivals, with both sides...",
+        "url": "https://finance.yahoo.com/news/first-republic-stuck-standoff-between-031229737.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/QhwT2pPGx.ha8TPwfyR9Fw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/b8989f0770a49bc530e15f3fd4b0ef8b",
+        "publishedAt": "2023-04-27T03:12:00Z",
+        "content": "(Bloomberg) -- The fate of First Republic Bank has become a game of chicken between the US government and the lenders largest rivals, with both sides seeking to avoid steep losses and hoping the othe… [+5638 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "SpaceNews"
+        },
+        "author": "Jeff Foust",
+        "title": "Fish and Wildlife Service documents damage from Starship launch - SpaceNews",
+        "description": "SpaceX’s Starship launch scattered debris over hundreds of acres and created a small brush fire but did not kill any wildlife, a federal agency said.",
+        "url": "https://spacenews.com/fish-and-wildlife-service-documents-damage-from-starship-launch/",
+        "urlToImage": "https://spacenews.com/wp-content/uploads/2023/04/starship-flight1-plume.jpg",
+        "publishedAt": "2023-04-27T02:53:28Z",
+        "content": "WASHINGTON SpaceXs Starship launch scattered debris over hundreds of acres and created a small brush fire, but did not kill any wildlife, according to a federal agency.\r\nIn an April 26 statement to S… [+3410 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": null,
+        "title": "Samsung flags H2 recovery after record chip loss in Q1 - Reuters",
+        "description": "Samsung Electronics Co Ltd <a href=\"https://www.reuters.com/companies/005930.KS\" target=\"_blank\">(005930.KS)</a> flagged a gradual recovery for chips in the second half of the year after its semiconductor business reported a record $3.4 billion loss on Thursd…",
+        "url": "https://www.reuters.com/technology/samsung-electronics-reports-95-plunge-first-quarter-profit-2023-04-26/",
+        "urlToImage": "https://www.reuters.com/resizer/VFUnDMpP2w0HSt4dMTI3IOHElKE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/O5H6QCBH4JIZTBBGSJXVKSFOVQ.jpg",
+        "publishedAt": "2023-04-27T02:05:00Z",
+        "content": "SEOUL, April 27 (Reuters) - Samsung Electronics Co Ltd (005930.KS) flagged a gradual recovery for chips in the second half of the year after its semiconductor business reported a record $3.4 billion … [+3315 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Sfstandard.com"
+        },
+        "author": "Bay City News",
+        "title": "Downtown San Francisco BART Station Closed by Police, Major Delays - The San Francisco Standard",
+        "description": "The Citizen crime reporting app says a person has been stabbed at the Civic Center station, The Standard is yet to verify the reports.",
+        "url": "https://sfstandard.com/criminal-justice/downtown-san-francisco-bart-station-closed-by-police-major-delays/",
+        "urlToImage": "https://sfstandard.com/wp-content/uploads/2021/10/Finding-Noah-Here_say-final-04-copy-1110x690.jpg",
+        "publishedAt": "2023-04-27T01:44:56Z",
+        "content": "The Civic Center station in Downtown San Francisco is closed due to police activity and there are major delays at SF stations, BART officials said Wednesday evening.\r\nInformation about the police act… [+967 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Guardian"
+        },
+        "author": "Guardian staff reporter",
+        "title": "Elon Musk’s statements could be ‘deepfakes’, Tesla defence lawyers tell court - The Guardian",
+        "description": "Judge in Autopilot death case says defence argument ‘deeply troubling’ and wants Tesla CEO interviewed under oath on safety claims",
+        "url": "https://www.theguardian.com/technology/2023/apr/27/elon-musks-statements-could-be-deepfakes-tesla-defence-lawyers-tell-court",
+        "urlToImage": "https://i.guim.co.uk/img/media/252928c334015f4f0fd5283d886781bf217b0660/958_300_2542_1526/master/2542.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3b83d65f7ff191bfb2662f9d150cc9f9",
+        "publishedAt": "2023-04-27T01:30:00Z",
+        "content": "A California judge has tentatively ordered Elon Musk to be interviewed under oath about whether he made certain statements regarding the capabilities of Teslas Autopilot features after the company qu… [+2183 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Solar gets burned: Enphase Energy falls 25% - CNBC Television",
+        "description": null,
+        "url": "https://www.youtube.com/watch?v=zTLyZ8YHi_s",
+        "urlToImage": null,
+        "publishedAt": "2023-04-27T01:23:40Z",
+        "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Wading through the mixed signals in the stock and bond markets - CNBC Television",
+        "description": "Bleakley’s Peter Boockvar and The Wall Street Journal's Gunjan Banerji, join 'CNBC Special: Taking Stock 2023' to discuss the House passing a debt limit bill...",
+        "url": "https://www.youtube.com/watch?v=fYIgzc60aaY",
+        "urlToImage": "https://i.ytimg.com/vi/fYIgzc60aaY/maxresdefault.jpg",
+        "publishedAt": "2023-04-27T00:29:44Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Fox Business"
+        },
+        "author": "Paul Best",
+        "title": "Musk meets with Schumer, discusses AI, the economy, and 'the future' - Fox Business",
+        "description": "Tech billionaire Elon Musk discussed artificial intelligence, the economy, and \"the future\" with Senate Majority Leader Chuck Schumer, D-N.Y., on Wednesday",
+        "url": "https://www.foxbusiness.com/politics/musk-meets-schumer-discusses-ai-economy-future",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/04/0/0/MUSK.jpg?ve=1&tl=1",
+        "publishedAt": "2023-04-27T00:24:18Z",
+        "content": "Elon Musk met with Senate Majority Leader Chuck Schumer, D-N.Y., on Wednesday to discuss artificial intelligence and other issues on Capitol Hill. \r\n\"It was good. We talked about the future,\" Musk, t… [+2592 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Post"
+        },
+        "author": "Adam Manno",
+        "title": "Bud Light collab with Dylan Mulvaney 'failed massively,' head of LGBTQ group admits - New York Post ",
+        "description": "An LGBT group head admitted as sales of the brew plummet following backlash over the controversial collaboration.",
+        "url": "https://nypost.com/2023/04/26/bud-light-collab-with-dylan-mulvaney-dubbed-a-massive-misfire-by-lgbt-honcho/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/04/NYPICHPDPICT000010200315.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2023-04-26T23:53:00Z",
+        "content": "Bud Light “massively” misfired when the beer brand partnered with transgender influencer Dylan Mulvaney, an LGBTQ group head admitted as sales of the brew plummet following backlash over the controve… [+2338 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "MATTHEW PERRONE AP Health Writer",
+        "title": "First pill for fecal transplants wins FDA approval - ABC News",
+        "description": "U.S. health officials have approved the first pill that uses healthy bacteria from human waste to fight dangerous gut infections — an easier way of performing so-called fecal transplants",
+        "url": "https://abcnews.go.com/Politics/wireStory/pill-fecal-transplants-wins-fda-approval-98889826",
+        "urlToImage": "https://s.abcnews.com/images/US/wirestory_2204e1debaab5d75273025cd0b2a1308_12x5_992.jpg",
+        "publishedAt": "2023-04-26T23:00:11Z",
+        "content": "WASHINGTON -- U.S. health officials on Wednesday approved the first pill made from healthy bacteria found in human waste to fight dangerous gut infections an easier way of performing so-called fecal … [+4808 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Connie Loizos",
+        "title": "Theranos founder Elizabeth Holmes isn’t headed to jail tomorrow after all - TechCrunch",
+        "description": "It's just the latest twist in a Silicon Valley story that has captivated the broader business world.",
+        "url": "https://techcrunch.com/2023/04/26/theranos-founder-elizabeth-holmes-isnt-headed-to-jail-tomorrow-after-all/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1158861262.jpg?resize=1200,832",
+        "publishedAt": "2023-04-26T22:52:30Z",
+        "content": "Theranos founder Elizabeth Holmes will not be heading off to prison tomorrow to begin serving an 11-year sentence, as first reported by the WSJ. Though earlier this month U.S. District Court Judge Ed… [+3399 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": null,
+        "title": "Facebook owner Meta touts AI might as digital ads boost outlook; shares jump - Reuters",
+        "description": "Meta Platforms Inc <a href=\"https://www.reuters.com/companies/META.O\" target=\"_blank\">(META.O)</a> CEO Mark Zuckerberg said on Wednesday that AI was helping the company boost traffic to Facebook and Instagram and earn more in ad sales, as it forecast quarterl…",
+        "url": "https://www.reuters.com/technology/facebook-parent-meta-sees-higher-than-expected-second-quarter-revenue-2023-04-26/",
+        "urlToImage": "https://www.reuters.com/resizer/YV3WxerM3iG5EXaVpNA8l4Xo4NY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KKRKLT6WINNYNP73DHNTICX3FI.jpg",
+        "publishedAt": "2023-04-26T22:48:00Z",
+        "content": "April 26 (Reuters) - Meta Platforms Inc (META.O) CEO Mark Zuckerberg said on Wednesday that AI was helping the company boost traffic to Facebook and Instagram and earn more in ad sales, as it forecas… [+4621 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "WANE"
+        },
+        "author": "Joe McQueen",
+        "title": "Hershey Salty Snacks in Bluffton creates pretzels people never get tired of - WANE",
+        "description": "Dot’s Homestyle Pretzels are a popular snack brand sold in stores nationally. These popular pretzels are made in northeast Indiana.",
+        "url": "https://www.wane.com/top-stories/hershey-salty-snacks-in-bluffton-creates-pretzels-people-never-get-tired-of/",
+        "urlToImage": "https://www.wane.com/wp-content/uploads/sites/21/2021/11/Pretzels-Bluffton.jpg?w=1280",
+        "publishedAt": "2023-04-26T22:25:54Z",
+        "content": "FORT WAYNE, Ind. (WANE) – National Pretzel Day happened on Wednesday and is meant to recognize the significance of the salty snack in the United States.\r\nNortheast Indiana is home to a pretzel maker … [+2008 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MarketWatch"
+        },
+        "author": "James Rogers",
+        "title": "Bed Bath and Beyond bankruptcy: ‘Dancing goose’ celebrates retailer’s demise - MarketWatch",
+        "description": "One of the strangest scenes in the saga of Bed Bath and Beyond’s bankruptcy played out outside the home goods retailer’s store in Manhattan’s Chelsea district Wednesday when a giant ‘dancing goose’ celebrated the company’s demise",
+        "url": "https://www.marketwatch.com/story/bed-bath-and-beyond-bankruptcy-giant-dancing-goose-celebrates-retailers-demise-de2e56ad",
+        "urlToImage": "https://images.mktw.net/im-770905/square/social",
+        "publishedAt": "2023-04-26T22:19:00Z",
+        "content": "One of the strangest scenes in the saga of Bed Bath and Beyond Inc.s bankruptcy played out outside the home goods retailers store in Manhattans Chelsea district Wednesday when a giant dancing goose c… [+329 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "WDIV ClickOnDetroit"
+        },
+        "author": "Rod Meloni",
+        "title": "UAW president 'disgusted' by automaker buyout: Stellantis to cut 30K jobs - WDIV ClickOnDetroit",
+        "description": "The new UAW president has reacted to Stellantis anticipating a 30,000 job cut.",
+        "url": "https://www.clickondetroit.com/news/local/2023/04/26/uaw-president-disgusted-by-automaker-buyout-stellantis-to-cut-30k-jobs/",
+        "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/04-26-2023/t_4aa53453484a4a7e96521703cd89b452_name_image.jpg?_a=ATCqVhC0",
+        "publishedAt": "2023-04-26T22:05:57Z",
+        "content": "STERLING HEIGHTS, Mich. The new UAW president has reacted to Stellantis anticipating a 30,000 job cut.\r\nStellantis has announced that they are looking to reduce its workforce by more than 30,000. A s… [+3675 chars]"
+      },
+      {
+        "source": {
+          "id": "ars-technica",
+          "name": "Ars Technica"
+        },
+        "author": "Scharon Harding",
+        "title": "Amazon will brick all Halo health trackers on August 1 - Ars Technica",
+        "description": "The Halo Rise sleep tracker only came out 5 months ago.",
+        "url": "https://arstechnica.com/gadgets/2023/04/amazon-will-brick-all-halo-health-trackers-on-august-1/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/09/Halo_View_3Hero_Full-760x380.png",
+        "publishedAt": "2023-04-26T21:48:48Z",
+        "content": "Amazon's Halo View fitness tracker. \r\n59 with \r\nAmazon is giving up on its health-focused Halo devices. The original Halo Band and the Halo View fitness trackers, as well as the Halo Rise bedside sle… [+5427 chars]"
+      }
+    ]
+  }
