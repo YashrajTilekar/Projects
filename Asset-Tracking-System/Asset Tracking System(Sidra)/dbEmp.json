@@ -1,0 +1,19 @@
+{
+
+    "Employee": [
+        {
+        "_id": "64d518c3ea36620eea2ad6d1",
+
+        "firstname": "Yashraj",
+
+        "lastname": "Tilekar",
+
+        "dateofjoining": "12-08-1212",
+
+        "employeeID": "0001",
+
+        "__v": 0
+        }
+    ]
+
+}
