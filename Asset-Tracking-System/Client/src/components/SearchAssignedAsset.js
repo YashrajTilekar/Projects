@@ -1,6 +1,6 @@
 import React ,{useState} from 'react'
 
-function SearchAssignedAsset() 
+function SearchAssignedAsset(props) 
 {
     const [empUID ,setEmpUID] = useState("");
     const [empFirstName ,setEmpFirstName] = useState("");
@@ -41,39 +41,35 @@ function SearchAssignedAsset()
 
     return (
         <div>
-            <nav className="navbar navbar-expand-lg bg-body-tertiary">
-                <div className="container-fluid">
-                    <h4 className="navbar-brand">
-                        View allocated Assets
-                    </h4>
-                    <button
-                        className="navbar-toggler"
-                        type="button"
-                        data-bs-toggle="collapse"
-                        data-bs-target="#navbarSupportedContent"
-                        aria-controls="navbarSupportedContent"
-                        aria-expanded="false"
-                        aria-label="Toggle navigation"
-                    >
-                        <span className="navbar-toggler-icon" />
-                    </button>
-                    <div className="collapse navbar-collapse" id="navbarSupportedContent">
-                        
-                        <form className="d-flex" role="search" onSubmit={handleSearch}>
-                            <input
-                                className="form-control me-2"
-                                type="search"
-                                placeholder="Emploee UID"
-                                aria-label="Search"
-                                onChange={(event) => setEmpUID(event.target.value)}
-                            />
-                            <button className="btn btn-outline-success" type="submit">
-                                Search
-                            </button>
-                        </form>
+            <form className="my-2 mx-2" onSubmit={handleSearch} data-bs-theme={props.mode === "light"? "light":"dark"}>
+                <div className="form-row align-items-center">
+                    <div className='col-auto'>
+                        <h4 className="navbar-brand mx-2">
+                            View Handovered Assets
+                        </h4>
+                    </div>
+                    
+                    <div className="col-auto">
+                        <label className="sr-only" htmlFor="inlineFormInput">
+                            Employee UID
+                        </label>
+                        <input
+                            type="text"
+                            className="form-control mb-2"
+                            id="inlineFormInput"
+                            placeholder="Employee UID"
+                            value={empUID}
+                            onChange={(event) => setEmpUID(event.target.value)}
+                        />
+                    </div>
+
+                    <div className="col-auto">
+                        <button type="submit" className="btn btn-outline-success mb-2">
+                            Search
+                        </button>
                     </div>
                 </div>
-            </nav>
+            </form>
 
             <div className='my-3 mx-3'>
                 <h5>UID : {empUID} </h5>
@@ -82,7 +78,7 @@ function SearchAssignedAsset()
                 <h5>Employee ID : {empID} </h5>
             </div>
 
-            <table className="table table-striped">
+            <table className={props.mode === "light"?`table table-striped` : `table table-dark table-striped`}>
                 <thead>
                     <tr>
                         <th scope="col">Model Number</th>

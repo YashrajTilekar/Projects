@@ -10,7 +10,7 @@ function Login(){
 
     function handleClick(){
 
-        navigate('/Dashboard');
+        navigate('/home');
 
     }
 

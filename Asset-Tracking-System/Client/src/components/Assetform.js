@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-function AssetForm() {
+function AssetForm(props) {
 
     const [assetId, setAssetId] = useState('');
     const [assetType, setAssetType] = useState('');
@@ -38,7 +38,7 @@ function AssetForm() {
 
 
     return (
-        <div style={styles.container}>
+        <div style={styles.container} data-bs-theme={props.mode === "light"? "light":"dark"}>
             <h2>Asset Form</h2>
             <form onSubmit={handleSubmit}>
                 <label style={styles.label}>
